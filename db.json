@@ -1,0 +1,43 @@
+{
+  "admin": [
+    {
+      "id": "1722026663615",
+      "firstname": "nik",
+      "lastname": "jain",
+      "email": "n@gmail.com",
+      "password": "123",
+      "phone": "123",
+      "address": "123",
+      "role": "admin"
+    },
+    {
+      "id": "1722026729295",
+      "firstname": "p",
+      "lastname": "p",
+      "email": "p@gmail.com",
+      "password": "123",
+      "phone": "456",
+      "address": "456",
+      "role": "customer"
+    }
+  ],
+  "users": [
+    {
+      "firstname": "João",
+      "lastname": "Souza Silva",
+      "email": "a@exemplo.usdsdssaaa",
+      "phone": "3121286800",
+      "address": "Av. dos Andradas, 3000wwewe",
+      "id": "1722008269176"
+    },
+    {
+      "firstname": "qsq",
+      "lastname": "qwqwqw",
+      "email": "qwqwq@g.com",
+      "phone": "34344454",
+      "address": "wsdssd",
+      "id": "1722008395064"
+    }
+  ],
+  "customer": []
+}
